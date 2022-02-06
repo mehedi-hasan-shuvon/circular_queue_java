@@ -14,6 +14,7 @@ public class Main {
         int result3 = newq.dequeue();
         int result4 = newq.dequeue();
         // int result5 = newq.dequeue();
+        
         newq.peek();
         newq.deletequeue();
 
